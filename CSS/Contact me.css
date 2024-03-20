@@ -1,0 +1,10 @@
+span{
+	color: slategray;
+}
+
+.container{
+	width: 250px;
+	height: 150px;
+	background-color: coral;
+	border-radius: 5%;
+}
